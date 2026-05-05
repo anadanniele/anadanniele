@@ -1,5 +1,4 @@
-Teacher | Lógica de Programação • Design Gráfico • Sistemas
-Always learning 🚀
+Teacher | Lógica de Programação • Design Gráfico •🚀
 
 <!---
 anadanniele/anadanniele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
