@@ -1,5 +1,4 @@
-Teacher | Developer in progress
-Lógica de Programação • Design Gráfico • Sistemas
+Teacher | Lógica de Programação • Design Gráfico • Sistemas
 Always learning 🚀
 
 <!---
